@@ -1,203 +1,205 @@
-###  Software Engineer Backend
-
-<!-- 👋 Hi there! I'm **M** -->
-<!--
-##  Regards I'm Izza 
-### Remind me, I just Software Engineer from Indonesia | Daily Coders
----
-## Tech Stack
-
-- **Languages:** Java, Golang, Javascript, Python, C++
-- **Backend:** Spring Boot, Go Gin
-- **Databases:** PostgreSQL, MongoDB, MySQL, Redis, ElasticSeach
-- **Cloud Services:** AWS, Google Cloud
----
-### My Activity
-
-![mftakhullaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mftakhullaziz&show_icons=false&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
----
-### Visit Here
-![Stay_Here](https://komarev.com/ghpvc/?username=mftakhullaziz&style=for-the-badge&color=blue)
-
-<!--
-Daily Coders | Software Development Engineer 
-Greetings, I'm Miftakhul, a Backend Software Engineer working at an IT consultancy in Singapore
-but based in Indonesia. My main tasks include building Rest APIs, debugging, adding new features,
-and conducting unit tests. I specialize in Java and Golang programming and have experience with
-technologies like Spring Boot, SQL databases, Kafka, Elasticsearch, Spark, and Hibernate. I
-graduated in Informatics Engineering from the Sumatra Institute of Technology in 2021, focusing
-on Data and Software Engineering. Outside of technical skills, I'm a strong communicator, and a
-quick learner, and I thrive in dynamic environments where I can continuously learn and grow.
-
-
-
-### Favorite Stacks
-
-![GOLANG](https://img.shields.io/badge/-Go-1f425f?style=flat&logo=go)&nbsp;
-![JAVA](https://img.shields.io/badge/-Java-1f425f?style=flat&logo=openjdk)&nbsp;
-![JS](https://img.shields.io/badge/-Javascript-1f425f?style=flat&logo=javascript)&nbsp;
-![PYTHON](https://img.shields.io/badge/-Python-1f425f?style=flat&logo=python)&nbsp;
-![TYPESCRIPT](https://img.shields.io/badge/-Typescript-1f425f?style=flat&logo=typescript)&nbsp;
-[![BASH](https://img.shields.io/badge/-Bash%20Scripting-1f425f.svg?logo=image%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw%2FeHBhY2tldCBiZWdpbj0i77u%2FIiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8%2BIDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTExIDc5LjE1ODMyNSwgMjAxNS8wOS8xMC0wMToxMDoyMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkE3MDg2QTAyQUZCMzExRTVBMkQxRDMzMkJDMUQ4RDk3IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkE3MDg2QTAzQUZCMzExRTVBMkQxRDMzMkJDMUQ4RDk3Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTcwODZBMDBBRkIzMTFFNUEyRDFEMzMyQkMxRDhEOTciIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTcwODZBMDFBRkIzMTFFNUEyRDFEMzMyQkMxRDhEOTciLz4gPC9yZGY6RGVzY3JpcHRpb24%2BIDwvcmRmOlJERj4gPC94OnhtcG1ldGE%2BIDw%2FeHBhY2tldCBlbmQ9InIiPz6lm45hAAADkklEQVR42qyVa0yTVxzGn7d9Wy03MS2ii8s%2BeokYNQSVhCzOjXZOFNF4jx%2BMRmPUMEUEqVG36jo2thizLSQSMd4N8ZoQ8RKjJtooaCpK6ZoCtRXKpRempbTv5ey83bhkAUphz8fznvP8znn%2B%2F3NeEEJgNBoRRSmz0ub%2FfuxEacBg%2FDmYtiCjgo5NG2mBXq%2BH5I1ogMRk9Zbd%2BQU2e1ML6VPLOyf5tvBQ8yT1lG10imxsABm7SLs898GTpyYynEzP60hO3trHDKvMigUwdeaceacqzp7nOI4n0SSIIjl36ao4Z356OV07fSQAk6xJ3XGg%2BLCr1d1OYlVHp4eUHPnerU79ZA%2F1kuv1JQMAg%2BE4O2P23EumF3VkvHprsZKMzKwbRUXFEyTvSIEmTVbrysp%2BWr8wfQHGK6WChVa3bKUmdWou%2BjpArdGkzZ41c1zG%2Fu5uGH4swzd561F%2BuhIT4%2BLnSuPsv9%2BJKIpjNr9dXYOyk7%2FBZrcjIT4eCnoKgedJP4BEqhG77E3NKP31FO7cfQA5K0dSYuLgz2TwCWJSOBzG6crzKK%2BohNfni%2Bx6OMUMMNe%2Fgf7ocbw0v0acKg6J8Ql0q%2BT%2FAXR5PNi5dz9c71upuQqCKFAD%2BYhrZLEAmpodaHO3Qy6TI3NhBpbrshGtOWKOSMYwYGQM8nJzoFJNxP2HjyIQho4PewK6hBktoDcUwtIln4PjOWzflQ%2Be5yl0yCCYgYikTclGlxadio%2BBQCSiW1UXoVGrKYwH4RgMrjU1HAB4vR6LzWYfFUCKxfS8Ftk5qxHoCUQAUkRJaSEokkV6Y%2F%2BJUOC4hn6A39NVXVBYeNP8piH6HeA4fPbpdBQV5KOx0QaL1YppX3Jgk0TwH2Vg6S3u%2BdB91%2B%2FpuNYPYFl5uP5V7ZqvsrX7jxqMXR6ff3gCQSTzFI0a1TX3wIs8ul%2Bq4HuWAAiM39vhOuR1O1fQ2gT%2F26Z8Z5vrl2OHi9OXZn995nLV9aFfS6UC9JeJPfuK0NBohWpCHMSAAsFe74WWP%2BvT25wtP9Bpob6uGqqyDnOtaeumjRu%2ByFu36VntK%2FPA5umTJeUtPWZSU9BCgud661odVp3DZtkc7AnYR33RRC708PrVi1larW7XwZIjLnd7R6SgSqWSNjU1B3F72pz5TZbXmX5vV81Yb7Lg7XT%2FUXriu8XLVqw6c6XqWnBKiiYU%2BMt3wWF7u7i91XlSEITwSAZ%2FCzAAHsJVbwXYFFEAAAAASUVORK5CYII%3D)](https://www.gnu.org/software/bash/)
-![SQL](https://img.shields.io/badge/-Mysql-1f425f?style=flat&logo=mysql)&nbsp;
-![SQL](https://img.shields.io/badge/-Postgresql-1f425f?style=flat&logo=postgresql)&nbsp;
-![REDIS](https://img.shields.io/badge/-Redis-1f425f?style=flat&logo=redis)&nbsp;
-![MONGODB](https://img.shields.io/badge/-Mongodb-1f425f?style=flat&logo=mongodb)&nbsp;
-![SPRINGBOOT](https://img.shields.io/badge/-Springboot-1f425f?style=flat&logo=springboot)&nbsp;
-![SPRING](https://img.shields.io/badge/-Spring-1f425f?style=flat&logo=spring)&nbsp;
-![SPRING](https://img.shields.io/badge/-Gin-1f425f?style=flat&logo=gin)&nbsp;
-![SPRING](https://img.shields.io/badge/-Nestjs-1f425f?style=flat&logo=nestjs)&nbsp;
-![HIBERNATE](https://img.shields.io/badge/-Hibernate-1f425f?style=flat&logo=hibernate)&nbsp;
-![GITLAB](https://img.shields.io/badge/-Gitlab-1f425f?style=flat&logo=gitlab)&nbsp;
-![GITHUB](https://img.shields.io/badge/-Github-1f425f?style=flat&logo=github)&nbsp;
-![BITBUCKET](https://img.shields.io/badge/-Bitbucket-1f425f?style=flat&logo=bitbucket)&nbsp;
-![ELASTICSEARCH](https://img.shields.io/badge/-Elasticsearch-1f425f?style=flat&logo=elastic)&nbsp;
-![SWAGGER](https://img.shields.io/badge/-Openapi-1f425f?style=flat&logo=swagger)&nbsp;
-![KAFKA](https://img.shields.io/badge/-Kafka-1f425f?style=flat&logo=apache-kafka)&nbsp;
-![SPARK](https://img.shields.io/badge/-Spark-1f425f?style=flat&logo=apache-spark)&nbsp;
-
-
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mftakhullaziz&layout=compact&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mftakhullaziz)](https://github.com/mftakhullaziz/github-readme-stats)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mftakhullaziz&show_icons=true&theme=ambient_gradient)
-
-
-<!-- I'm not a great Software Engineer. I continue to try to be a good Software Engineer with good habits. -->
-
-<!--
-### Building Service:
-#### Golang
-- [gotodo](https://github.com/mftakhullaziz/gotodo): an create service todos app with in implement hexagonal architecture and building using go-mux, mysql.
-- [gobook](https://github.com/mftakhullaziz/gobooks): and create crud books apis like to manage library books with user authentication and building using go-gin, mysql and open api.
-- [gorouter](https://github.com/mftakhullaziz/gorouter): an create service like crud with in layered architecture and building using go-router, mysql. 
-- [gomigratorsql](https://github.com/mftakhullaziz/gooetls): an project to create etl app
--->
-
-<!--
-#### Java
--  project1
--  project2
--  project3
--->
-
-<!--   Backend Engineer | Software Engineer | Software Development Engineer  -->
+<div align="center">
   
-<!--   Good Programming Language Java, Python, Go
-  - Event Driven Microservices, 
-  - Reactive Programming, 
-  - Clean architecture and Design Pattern
-   -->
-<!--   Lets connect with me...  -->
-     
-<!--   😄 Software Engineer Its Fun Just Create Code & fixing bug like Make Coffe and custom flavor  -->
+# 👋 Hi there, I'm Aizaa Dev (Miftakhul Aziz)
+
+### 🚀 Backend Software Engineer | Building Scalable Systems
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Microservices+Architect;Event-Driven+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miftakhullaziz/)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://miftakhulaziz.github.io)
+[![GitHub followers](https://img.shields.io/github/followers/miftakhulaziz?style=for-the-badge&logo=github)](https://github.com/miftakhulaziz?tab=followers)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Backend Software Engineer** based in **Jakarta, Indonesia**, currently working at an IT consultancy in Singapore. I specialize in building **scalable REST APIs**, implementing **microservices architecture**, and crafting **event-driven systems**.
+
+```go
+package main
+
+type Developer struct {
+    Name       string
+    Role       string
+    Location   string
+    Speciality []string
+}
+
+func main() {
+    me := Developer{
+        Name:     "Miftakhul Aziz",
+        Role:     "Backend Software Engineer",
+        Location: "Jakarta, Indonesia 🇮🇩",
+        Speciality: []string{
+            "Building REST APIs",
+            "Event-Driven Microservices",
+            "Clean Architecture",
+            "System Design",
+        },
+    }
+}
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Backend Technologies
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Databases & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Tools & Others
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🎯 Featured Projects
+
+<details>
+<summary>🌟 Click to explore my work</summary>
+
+### 🏗️ Architecture & Design Patterns
+- **[spring-architecture](https://github.com/miftakhulaziz/spring-architecture)** - Clean Architecture implementation with Spring Boot
+  - ⭐ 2 stars | 📦 Java
+
+### 💳 Payment Integration
+- **[pgmidtrans](https://github.com/miftakhulaziz/pgmidtrans)** - Payment Gateway Integration with Midtrans
+  - ⭐ 4 stars | 🔱 2 forks | 📦 Java
+
+### 🎭 Event-Driven Systems
+- **[event-orchestrator](https://github.com/miftakhulaziz/event-orchestrator)** - Saga Pattern Implementation with Spring Boot
+  - ⭐ 1 star | 📦 Java
+
+### 🔍 Monitoring & Tracing
+- **[traceflow](https://github.com/miftakhulaziz/traceflow)** - Distributed Tracing and Monitoring with Spring Boot
+  - ⭐ 2 stars | 📦 Java
+
+### 🐹 Golang Projects
+- **[gobooks](https://github.com/miftakhulaziz/gobooks)** - REST API with Gin Framework & MySQL
+  - ⭐ 1 star | 📦 Go
   
-<!-- <a href="#" target="_blank"> <img src="https://img.shields.io/github/followers/mftakhullaziz?style=social" alt="python" width="150" height="30"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/amift"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin" alt="go" width="100" height="30"/></a> &nbsp;
-<a href="https://mfthza.github.io"><img src="https://img.shields.io/badge/-mftakhullaziz.io-grey?style=flat&logo=java&logoColor=white" alt="java" width="140" height="30"/></a> &nbsp;
+- **[gorouter](https://github.com/miftakhulaziz/gorouter)** - Sample HTTP Router Implementation
+  - ⭐ 1 star | 📦 Go
 
-<a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=mfthza&style=flat&color=brightgreen&label=visit-here" alt="spark" width="130" height="30"/></a> &nbsp; -->
+</details>
 
+---
 
-<!-- ## -->
-<!-- #### **Technologies Stacks**
+## 📊 GitHub Stats
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,go,python,c,spring,flask,rxjs,git,docker,linux,tensorflow,hibernate&theme=dark)](https://skills.thijs.gg) -->
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miftakhulaziz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 
-<!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Java-00001a?style=flat&logo=java&logoColor=white" alt="java" width="50" height="30"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Python-00001a?style=flat&logo=python" alt="python" width="95" height="30"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Golang-00001a?style=flat&logo=go" alt="go" width="95" height="30"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Spark-00001a?style=flat&logo=apache-spark" alt="spark" width="90" height="30"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Elastic-00001a?style=flat&logo=elastic" alt="spark" width="95" height="30"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Springboot-00001a?style=flat&logo=springboot" alt="spark" width="130" height="30"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Sql-00001a?style=flat&logo=mysql" alt="spark" width="65" height="30"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Swagger-00001a?style=flat&logo=swagger" alt="spark" width="110" height="30"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Kafka-00001a?style=flat&logo=apache-kafka" alt="spark" width="85" height="30"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Flask-00001a?style=flat&logo=flask" alt="spark" width="75" height="30"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Hibernate-00001a?style=flat&logo=hibernate" alt="spark" width="120" height="30"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Linux-00001a?style=flat&logo=ubuntu" alt="spark" width="88" height="30"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Docker-00001a?style=flat&logo=docker" alt="spark" width="88" height="30"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Spring-00001a?style=flat&logo=spring" alt="spark" width="95" height="30"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Tensorflow-00001a?style=flat&logo=tensorflow" alt="spark" width="120" height="30"/></a> &nbsp; -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftakhulaziz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
+</div>
 
-<!-- ## 
-#### **My Github Stat's** -->
-<!--
-![Miftakhul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amifth&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
--->
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=miftakhulaziz&theme=tokyonight&hide_border=true&background=0D1117)
 
-<!-- <p align="left">
-<a href="https://github.com/mfthza">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mftakhullaziz&show_icons=true&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mftakhullaziz&langs_count=6&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-</a>
-</p> -->
+</div>
 
-<!--
-https://github-readme-stats.vercel.app/api/top-langs/?username=amifth&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117
--->
+---
 
-<!--
-![Github](https://img.shields.io/github/followers/amifth?style=social)
-[![dev.to](https://img.shields.io/badge/-MyLinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amift)
--->
+## 🏆 GitHub Achievements
 
+<div align="center">
 
+![Achievements](https://github-profile-trophy.vercel.app/?username=miftakhulaziz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
+</div>
 
+---
 
-<!-- ![](https://komarev.com/ghpvc/?username=amifth&style=flat&color=brightgreen&label=VisitHere) -->
+## 💡 What I'm Focused On
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amifth&layout=compact)](https://github.com/amifth/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amifth&repo=ApiGo)](https://github.com/amifth/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amifth&theme=light)](https://git.io/streak-stats) -->
+```yaml
+current_focus:
+  - Event-Driven Microservices Architecture
+  - Reactive Programming with Spring WebFlux
+  - Distributed Systems & Message Queuing
+  - Clean Architecture & Design Patterns
+  - Performance Optimization & Scalability
+  
+learning:
+  - Advanced Golang Patterns
+  - Kubernetes & Container Orchestration
+  - System Design at Scale
+  
+interests:
+  - Open Source Contribution
+  - Technical Writing
+  - Mentoring Junior Developers
+```
 
-<!-- ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=kibana)&nbsp;
-![SKlearn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=scikitlearn)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
-![Node.js](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
-![Node.js](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Node.js](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)&nbsp;
-![Node.js](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+---
 
-<br>
-<p align="left">
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> &nbsp;
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/master/icons/tensorflow.svg" alt="python" width="40" height="40"/></a> &nbsp;
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="60" height="60"/></a> &nbsp;
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &nbsp;
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> &nbsp;
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="java" width="40" height="40"/></a> &nbsp;
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/> </a> &nbsp;
-<a href="#" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/> </a> &nbsp;
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> </a> &nbsp;
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> &nbsp;
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> &nbsp;
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> &nbsp;
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> </a> &nbsp;
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a> &nbsp;
+## 📫 Let's Connect
 
-**Amifth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amift)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mftakhullaziz.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+## ✨ Fun Facts
+
+- 🍎 Working remotely from Jakarta, Indonesia
+- ☕ Coffee enthusiast - Good code needs good coffee!
+- 🎯 Clean Code Advocate - "Make it work, make it right, make it fast"
+- 🚀 Always learning new technologies
+- 💬 Feel free to ask me about: **Java, Golang, Microservices, System Design**
+
+---
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=miftakhulaziz&style=for-the-badge&color=blueviolet)
+
+---
+
+⭐️ From [miftakhulaziz](https://github.com/miftakhulaziz) with 💙
+
+</div>
