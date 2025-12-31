@@ -1,4 +1,111 @@
 <div align="center">
+
+# Hi, I'm **Aizaa Dev**
+
+**Software Engineer · Scalable Systems · Distributed Architecture**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=6DA4FF&center=true&vCenter=true&width=520&lines=Backend+Engineer;Microservices+%26+Event-Driven+Systems;Clean+Architecture+Advocate" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/miftakhullaziz/)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-green?style=social&logo=google-chrome)](https://miftakhulaziz.github.io)
+[![GitHub followers](https://img.shields.io/github/followers/miftakhulaziz?style=social&logo=github)](https://github.com/miftakhulaziz?tab=followers)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Backend Software Engineer based in **Jakarta, Indonesia 🇮🇩**, working closely with regional teams across **Singapore**.
+I specialize in designing and building **scalable backend systems**, with a strong focus on **microservices architecture**, **event-driven systems**, and **observability-first engineering**.
+
+I enjoy working on complex backend problems such as **system design**, **distributed transactions**, **high-throughput messaging**, and **production-grade API platforms**.
+My work emphasizes **clean architecture**, **maintainability**, and **operational reliability** in real-world systems.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Languages](https://skillicons.dev/icons?i=java,go,python,js,cpp\&theme=dark)
+
+### Backend & Runtime
+
+![Backend](https://skillicons.dev/icons?i=spring,hibernate,nodejs\&theme=dark)
+
+**Also worked with:**
+Gin (Go), Apache Spark, Swagger / OpenAPI
+
+### Databases & Messaging
+
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,kafka\&theme=dark)
+
+### Cloud & DevOps
+
+![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,git\&theme=dark)
+
+### Observability
+
+![Observability](https://skillicons.dev/icons?i=grafana,elasticsearch\&theme=dark)
+
+**Tracing & Logging:**
+Jaeger · Tempo · Zipkin · Loki · ELK Stack
+
+
+## 📊 GitHub Stats
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miftakhulaziz&theme=github_dark"
+width="100%"
+/>
+<br/>
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miftakhulaziz&theme=github_dark"
+width="49%"
+/> <img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miftakhulaziz&theme=github_dark"
+width="49%"
+/>
+
+<br clear="both"/>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+focus:
+  - Event-Driven Microservices
+  - Distributed Tracing & Observability
+  - Spring Boot & WebFlux
+  - High-throughput Messaging (Kafka)
+learning:
+  - Advanced Go Patterns
+  - Kubernetes
+  - System Design at Scale
+```
+
+---
+
+## 📬 Contact
+
+* LinkedIn: [https://linkedin.com/in/miftakhullaziz](https://linkedin.com/in/miftakhullaziz)
+* Portfolio: [https://miftakhulaziz.github.io](https://miftakhulaziz.github.io)
+* Email: [miftakhulaziz.dev@gmail.com](mailto:miftakhulaziz.dev@gmail.com)
+
+---
+
+<div align="center">
+
+⭐️ *Backend systems should be observable, scalable, and boring to operate.*
+
+</div>
+
+
+<!-- <div align="center">
   
 # 👋 Hi there, I'm Aizaa Dev (Miftakhul Aziz)
 
@@ -6,9 +113,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Microservices+Architect;Event-Driven+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miftakhullaziz/)
-[![Website](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://miftakhulaziz.github.io)
-[![GitHub followers](https://img.shields.io/github/followers/miftakhulaziz?style=for-the-badge&logo=github)](https://github.com/miftakhulaziz?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/miftakhullaziz/)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-green?style=social&logo=google-chrome)](https://miftakhulaziz.github.io)
+[![GitHub followers](https://img.shields.io/github/followers/miftakhulaziz?style=social&logo=github)](https://github.com/miftakhulaziz?tab=followers)
 
 </div>
 
@@ -48,36 +155,54 @@ func main() {
 ## 🛠️ Tech Stacks
 
 ### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![Languages](https://skillicons.dev/icons?i=java,go,python,js,cpp\&theme=dark)
+
+---
 
 ### Backend Technologies
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![Backend](https://skillicons.dev/icons?i=spring,hibernate,nodejs\&theme=dark)
+
+**Also experienced with:**
+
+* ⚡ **Gin** (Go HTTP framework)
+* 🧩 **Apache Spark**
+* 📄 **Swagger / OpenAPI**
+
+---
 
 ### Databases & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,kafka\&theme=dark)
+
+---
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Tools & Others
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,git\&theme=dark)
+
+---
+
+### Observability & Monitoring
+
+![Observability](https://skillicons.dev/icons?i=grafana,elasticsearch\&theme=dark)
+
+**Tracing & Logging:**
+
+* 🔍 **Jaeger**
+* ⏱️ **Tempo**
+* 📦 **Zipkin**
+* 📊 **Loki**
+* 📚 **ELK Stack (Elasticsearch, Logstash, Kibana)**
+
+---
+
+### Tools & OS
+
+![Tools](https://skillicons.dev/icons?i=linux\&theme=dark)
+
+
 
 ---
 
@@ -114,32 +239,19 @@ func main() {
 ---
 
 ## 📊 GitHub Stats
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miftakhulaziz&theme=github_dark"
+width="100%"
+/>
+<br/>
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miftakhulaziz&theme=github_dark"
+width="49%"
+/> <img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miftakhulaziz&theme=github_dark"
+width="49%"
+/>
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miftakhulaziz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftakhulaziz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=miftakhulaziz&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Achievements](https://github-profile-trophy.vercel.app/?username=miftakhulaziz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
 
 ## 💡 What I'm Focused On
 
@@ -202,4 +314,4 @@ interests:
 
 ⭐️ From [miftakhulaziz](https://github.com/miftakhulaziz) with 💙
 
-</div>
+</div> -->
