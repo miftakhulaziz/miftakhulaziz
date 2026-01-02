@@ -18,7 +18,7 @@
 
 ## About Me
 
-Backend Software Engineer based in **Jakarta, Indonesia 🇮🇩**, working closely with regional teams across **Singapore**.
+Software Engineer based in **Indonesia 🇮🇩**.
 I specialize in designing and building **scalable backend systems**, with a strong focus on **microservices architecture**, **event-driven systems**, and **observability-first engineering**.
 
 I enjoy working on complex backend problems such as **system design**, **distributed transactions**, **high-throughput messaging**, and **production-grade API platforms**.
@@ -28,11 +28,12 @@ My work emphasizes **clean architecture**, **maintainability**, and **operationa
 
 ## Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=java,go,python,js,cpp\&theme=dark)
+![Languages](https://skillicons.dev/icons?i=java,go,python,ts,js,cpp\&theme=dark)
 ![Backend](https://skillicons.dev/icons?i=spring,hibernate,nodejs\&theme=dark)
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,kafka\&theme=dark)
 ![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,git\&theme=dark)
 ![Observability](https://skillicons.dev/icons?i=grafana,elasticsearch\&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=nuxt,vue,next,react\&theme=dark)
 
 **Also worked with:**
 Gin (Go), Apache Spark, Swagger / OpenAPI
