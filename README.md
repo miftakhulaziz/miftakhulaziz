@@ -1,20 +1,19 @@
-<div align="center">
+<div align="left">
 
-# Hi, I'm **Aizaa Dev**
+# Hai, I'm **Miftakhul Aziz (aizacoders)**
 
 **Software Engineer · Scalable Systems · Distributed Architecture**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=6DA4FF&center=true&vCenter=true&width=520&lines=Backend+Engineer;Microservices+%26+Event-Driven+Systems;Clean+Architecture+Advocate" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=6DA4FF&left=true&vCenter=true&width=520&lines=Backend+Engineer;Microservices+%26+Event-Driven+Systems;Clean+Architecture+Advocate" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/miftakhullaziz/)
-[![Website](https://img.shields.io/badge/Portfolio-Visit-green?style=social&logo=google-chrome)](https://miftakhulaziz.github.io)
-[![GitHub followers](https://img.shields.io/github/followers/miftakhulaziz?style=social&logo=github)](https://github.com/miftakhulaziz?tab=followers)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-green?style=social&logo=google-chrome)](https://aizacoders.github.io)
+[![GitHub followers](https://img.shields.io/github/followers/miftakhulaziz?style=social&logo=github)](https://github.com/aizacoders?tab=followers)
 
 </div>
 
----
 
 ## About Me
 
@@ -24,7 +23,6 @@ I specialize in designing and building **scalable backend systems**, with a stro
 I enjoy working on complex backend problems such as **system design**, **distributed transactions**, **high-throughput messaging**, and **production-grade API platforms**.
 My work emphasizes **clean architecture**, **maintainability**, and **operational reliability** in real-world systems.
 
----
 
 ## Tech Stack
 
@@ -44,27 +42,25 @@ Jaeger · Tempo · Zipkin · Loki · ELK Stack
 ## GitHub Stats
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miftakhulaziz&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aizacoders&theme=github_dark"
 width="100%"
 />
 <br/>
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miftakhulaziz&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aizacoders&theme=github_dark"
 width="49%"
 /> <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miftakhulaziz&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aizacoders&theme=github_dark"
 width="49%"
 />
 
 <br clear="both"/>
 
----
-
 ## Contact
 
 * LinkedIn: [https://linkedin.com/in/miftakhullaziz](https://linkedin.com/in/miftakhullaziz)
-* Portfolio: [https://miftakhulaziz.github.io](https://miftakhulaziz.github.io)
-* Email: [miftakhullaziz@gmail.com](mailto:miftakhulaziz.dev@gmail.com)
+* Portfolio: [https://miftakhulaziz.github.io](https://aizacoders.github.io)
+* Email: [miftakhullaziz@gmail.com](mailto:miftakhull.aziz@gmail.com)
 
 
 <!-- <div align="center">
